@@ -12,6 +12,4 @@ This file is the Streamlit entry point for the project. It brings together the d
 - Lets the user adjust cost and elasticity inputs
 - Displays business insights and a profit curve
 
-## Why it matters
 
-It converts analytical logic into an interactive experience suitable for interviews, presentations, and portfolio demos.
