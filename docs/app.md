@@ -14,4 +14,4 @@ This file is the Streamlit entry point for the project. It brings together the d
 
 ## Why it matters
 
-This is the user-facing layer of the project. It converts analytical logic into an interactive experience suitable for interviews, presentations, and portfolio demos.
+It converts analytical logic into an interactive experience suitable for interviews, presentations, and portfolio demos.
