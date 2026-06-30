@@ -55,6 +55,5 @@ If you want to use the real Olist dataset, place the relevant CSV files in the d
 
 This project is ready to be pushed to GitHub and deployed on Streamlit Cloud.
 
-## License
 
-This project is intended for educational and portfolio use.
+
