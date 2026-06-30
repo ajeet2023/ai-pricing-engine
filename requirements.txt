@@ -1,1 +1,9 @@
+pandas
+sqlalchemy
+statsmodels
+streamlit
+openai
+matplotlib
+numpy
+kaggle
 
